@@ -1,6 +1,6 @@
 # MINVO Basis: Finding Simplexes with Minimum Volume Enclosing Polynomial Curves #
 
-**The code has beeen released at [https://github.com/mit-acl/minvo](https://github.com/mit-acl/minvo)**
+## **The code has beeen released at [https://github.com/mit-acl/minvo](https://github.com/mit-acl/minvo)**
 
 [![](./imgs/minvo3d.png)](https://www.youtube.com/watch?v=f_JOYud9LUU) 
 
